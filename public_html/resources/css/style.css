@@ -56,3 +56,14 @@
      border-color: black;
      border-width: 3px;
  }
+
+a {
+    left: 0;
+    bottom: 0;
+}
+
+ ion-icon {
+     color: white;
+     font-size: 300%;
+     display: none;
+ }
